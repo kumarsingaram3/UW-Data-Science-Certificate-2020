@@ -4,7 +4,7 @@ Milestone coursework from the University of Washington Data Science program I co
 
 ## Data Science 400
 
-- [DS 400-Milestone 01: Extracting Data from Dictionary](https://github.com/kumarsingaram3/UW-Data-Science-Certificate-2020/blob/main/400-M01-json-extract.ipynb)
+- [DS 400-Milestone 01: Data Extraction](https://github.com/kumarsingaram3/UW-Data-Science-Certificate-2020/blob/main/400-M01-json-extract.ipynb)
 - [DS 400-Milestone 02: Cleaning Data](https://github.com/kumarsingaram3/UW-Data-Science-Certificate-2020/blob/main/400-M02-data-cleaning.ipynb)
 
 ## Data Science 410
